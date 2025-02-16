@@ -35,5 +35,7 @@ Cloud Solutions with AWS
 
 Feel free to reach out if you’d like to collaborate on a project, discuss backend development, or simply say hi!
 
+Email: aymanalshiekh1@gmail.com
+
 Thanks for stopping by! 🚀
 
